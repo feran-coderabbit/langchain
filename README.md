@@ -1,5 +1,3 @@
-      <source media="(prefers-color-scheme: dark)" srcset=".github/images/logo-light.svg">
-      <img alt="LangChain Logo" src=".github/images/logo-dark.svg" width="80%">
     </picture>
   </a>
 </div>
