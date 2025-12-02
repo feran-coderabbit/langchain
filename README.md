@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://www.langchain.com/">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset=".github/images/logo-dark.svg">
       <source media="(prefers-color-scheme: dark)" srcset=".github/images/logo-light.svg">
       <img alt="LangChain Logo" src=".github/images/logo-dark.svg" width="80%">
     </picture>
